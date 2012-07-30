@@ -1,0 +1,15 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x1c\x00j\x00a\x00v\x00a\x00c\x00-\x00c\x00o\x00m\x00p\x00i\x00l\x00e\x00r)
+
+[CMake]
+BuildDirs=/home/lewis/javac-compiler/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/lewis/javac-compiler/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+Extra Arguments=
+ProjectRootRelative=./
+
+[Project]
+VersionControlSupport=kdevgit
